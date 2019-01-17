@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT depenses (depense*)>
+<!ELEMENT depense (id, montant, personne, description)>
+<!ATTLIST depense id ID #REQUIRED>
+<!ELEMENT montant (#PCDATA)>
+<!ELEMENT personne (#PCDATA)>
+<!ELEMENT description (#PCDATA)>

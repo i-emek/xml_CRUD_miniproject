@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<depenses>
+    <depense>
+        <id>2</id>
+        <montant>123</montant>
+        <personne>Hamza</personne>
+        <description>Desc</description>
+    </depense>
+    <depense>
+        <id>3</id>
+        <montant>75.00</montant>
+        <personne>Mohamed</personne>
+        <description>S'est fait le jour XX</description>
+    </depense>
+    <depense>
+        <id>4</id>
+        <montant>Ferdaous</montant>
+        <personne>13.5</personne>
+        <description>Jour YY</description>
+    </depense>
+    <depense>
+        <id>5</id>
+        <montant>550</montant>
+        <personne>Rayan</personne>
+        <description>Jour ZZ</description>
+    </depense>
+</depenses>
